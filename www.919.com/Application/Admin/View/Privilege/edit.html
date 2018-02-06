@@ -1,0 +1,57 @@
+<layout name="layout"/>
+<div class="tab-div">
+    <div id="tabbar-div">
+        <p>
+            <span class="tab-front" id="general-tab">通用信息</span>
+        </p>
+    </div>
+    <div id="tabbody-div">
+        <form enctype="multipart/form-data" action="__SELF__" method="post">
+            <input type="hidden" name="id" value="<?php echo $data['id'];?>"/>
+            <table width="90%" id="general-table" align="center">
+                <tr>
+                    <td class="label">上级权限：</td>
+                    <td>
+                        <select name="parent_id" >
+                            <option value="">顶级权限</option>
+                            <?php foreach($priData as $k=>$v):
+                             if(in_array($v['id'],$children))
+                                  continue;
+                            if($v['id'] == $data['parent_id'])
+                            {
+                              $select ='selected="selected"';
+                            }
+                            else
+                            {
+                              $select='';
+                            }
+                            ?>
+                            <option <?php echo $select;?> value="<?php  echo $v['id']?>"><?php echo str_repeat('.',$v['level']*8);?><?php echo $v['pri_name'];?></option>
+                        <?php endforeach;?>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">权限名称：</td>
+                    <td><input type="text" name="pri_name" value="<?php echo $v['pri_name'];?>"size="20" />
+                </tr>
+                <tr>
+                    <td class="label">模型名称：</td>
+                    <td><input type="text" name="module_name" value="<?php echo $data['module_name'];?>"size="20" />
+                </tr>
+                <tr>
+                    <td class="label">控制器名称：</td>
+                    <td><input type="text" name="controller_name" value="<?php echo $data['controller_name'];?>"size="20" />
+                </tr>
+                <tr>
+                    <td class="label">方法名称：</td>
+                    <td><input type="text" name="action_name" value="<?php echo $data['action_name'];?>"size="20" />
+                </tr>
+            </table>
+            <div class="button-div">
+                <input type="submit" value=" 确定 " class="button"/>
+                <input type="reset" value=" 重置 " class="button" />
+            </div>
+        </form>
+    </div>
+</div>

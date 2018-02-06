@@ -1,0 +1,36 @@
+<layout name="layout"/>
+<div class="tab-div">
+    <div id="tabbar-div">
+        <p>
+            <span class="tab-front" id="general-tab">通用信息</span>
+        </p>
+    </div>
+    <div id="tabbody-div">
+        <form enctype="multipart/form-data" action="__SELF__" method="post">
+            <input type="hidden" name="id" value="<?php echo $data['id'];?>"/>
+            <table width="90%" id="general-table" align="center">
+                <tr>
+                    <td class="label">品牌名称：</td>
+                    <td><input type="text" name="brand_name" value="<?php echo $data['brand_name'];?>"size="30" />
+                    <span class="require-field">*</span></td>
+                </tr>
+                <tr>
+                    <td class="label"></td>
+                    <td ><img src="/Public/Uploads/<?php echo $data['sm_logo'];?>" ></td>
+                </tr>
+                <tr>
+                    <td class="label">logo：</td>
+                    <td><input type="file" name="logo" value=""size="20" />
+                </tr>
+                <tr>
+                    <td class="label">品牌地址：</td>
+                    <td><input type="text" name="site_url" value="<?php echo $data['site_url'];?>"size="20" />
+                </tr>
+            </table>
+            <div class="button-div">
+                <input type="submit" value=" 确定 " class="button"/>
+                <input type="reset" value=" 重置 " class="button" />
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,692 @@
+[ 2018-01-30T09:37:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001491s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001551s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013172s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013222s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001167s ]
+
+[ 2018-01-30T09:37:20+08:00 ] 127.0.0.1 /index.php/Admin/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007505s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007543s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001198s ]
+
+[ 2018-01-30T09:37:20+08:00 ] 127.0.0.1 /index.php/Admin/Login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001141s ]
+
+[ 2018-01-30T09:37:31+08:00 ] 127.0.0.1 /index.php/Admin/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+SQL: SHOW COLUMNS FROM `p919_admin` [ RunTime:0.0105s ]
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\www.919.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `p919_admin` WHERE `account` = 'admin' LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004689s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000861s ]
+
+[ 2018-01-30T09:37:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000021s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005457s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005511s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000636s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000659s ]
+
+[ 2018-01-30T09:37:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005373s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000676s ]
+
+[ 2018-01-30T09:37:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006915s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001099s ]
+
+[ 2018-01-30T09:37:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000834s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000885s ]
+
+[ 2018-01-30T09:37:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0079s ]
+NOTIC: [2] Declaration of Admin\Model\GoodsModel::_after_insert(&$data, $option) should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\www.919.com\Application\Admin\Model\GoodsModel.class.php 第 304 行.
+NOTIC: [2] Declaration of Admin\Model\GoodsModel::_after_update(&$data, $option) should be compatible with Think\Model::_after_update($data, $options) D:\phpStudy\WWW\www.919.com\Application\Admin\Model\GoodsModel.class.php 第 304 行.
+NOTIC: [2] Declaration of Admin\Model\GoodsModel::_after_delete($option) should be compatible with Think\Model::_after_delete($data, $options) D:\phpStudy\WWW\www.919.com\Application\Admin\Model\GoodsModel.class.php 第 304 行.
+SQL: SHOW COLUMNS FROM `p919_goods` [ RunTime:0.0095s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p919_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT a.*,b.brand_name,c.cat_name FROM p919_goods a LEFT JOIN p919_brand b on a.brand_id=b.id
+                           LEFT JOIN  p919_category c ON a.cat_id=c.id  LIMIT 0,25   [ RunTime:0.0054s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `p919_category`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012795s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001026s ]
+
+[ 2018-01-30T09:37:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0063s ]
+SQL: SHOW COLUMNS FROM `p919_brand` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `p919_brand`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p919_member_level` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `p919_member_level`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `p919_category`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+SQL: SHOW COLUMNS FROM `p919_type` [ RunTime:0.0070s ]
+SQL: SELECT `id`,`type_name` FROM `p919_type`  [ RunTime:0.0002s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016991s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2018-01-30T09:37:44+08:00 ] 127.0.0.1 /index.php/Admin/Category/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0077s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `p919_category`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: PageString D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Admin\395c0ba78bddab9d6617dcec0f2fd9a9.php 第 55 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007121s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2018-01-30T09:37:46+08:00 ] 127.0.0.1 /index.php/Admin/Brand/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `p919_brand` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p919_brand` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p919_brand` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006396s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-01-30T09:37:49+08:00 ] 127.0.0.1 /index.php/Admin/Brand/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0069s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2018-01-30T09:37:52+08:00 ] 127.0.0.1 /index.php/Admin/Brand/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `p919_brand` [ RunTime:0.0079s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p919_brand` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p919_brand` LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004290s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2018-01-30T09:37:56+08:00 ] 127.0.0.1 /index.php/Admin/Brand/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0071s ]
+SQL: SHOW COLUMNS FROM `p919_brand` [ RunTime:0.0062s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p919_brand` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p919_brand` LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006091s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2018-01-30T09:37:56+08:00 ] 127.0.0.1 /index.php/Admin/Type/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0067s ]
+SQL: SHOW COLUMNS FROM `p919_type` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `p919_type`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: PageString D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Admin\9e1e5841af12860e6ba08b9e55eb68af.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006231s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006268s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2018-01-30T09:37:58+08:00 ] 127.0.0.1 /index.php/Admin/Type/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0086s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005426s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005469s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000887s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000949s ]
+
+[ 2018-01-30T09:38:00+08:00 ] 127.0.0.1 /index.php/Admin/Type/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `p919_type` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `p919_type`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: PageString D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Admin\9e1e5841af12860e6ba08b9e55eb68af.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007248s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001439s ]
+
+[ 2018-01-30T09:38:01+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/lst/type_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0064s ]
+SQL: SHOW COLUMNS FROM `p919_attribute` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `p919_attribute` WHERE ( type_id=1 )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: PageString D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Admin\d12b6d6cfaa93439758dd8f98ee55ea0.php 第 60 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006926s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006980s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2018-01-30T09:38:05+08:00 ] 127.0.0.1 /index.php/Admin/Privilege/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `p919_privilege`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: PageString D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Admin\1c990affb7d51d2df56dce018d5c78a2.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006761s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2018-01-30T09:38:07+08:00 ] 127.0.0.1 /index.php/Admin/Role/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+NOTIC: [2] Declaration of Admin\Model\RoleModel::_after_insert(&$data, $option) should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\www.919.com\Application\Admin\Model\RoleModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `p919_role` [ RunTime:0.0076s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.pri_name) pri_name FROM p919_role a LEFT JOIN p919_role_pri b ON a.id=b.role_id
+                                    LEFT JOIN p919_privilege c ON b.pri_id=c.id
+                                    GROUP BY a.id  [ RunTime:0.0034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: PageString D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Admin\64431effeb3c8b31c1cd32ecd958c163.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006051s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2018-01-30T09:38:09+08:00 ] 127.0.0.1 /index.php/Admin/Admin/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0067s ]
+SQL: SHOW COLUMNS FROM `p919_admin` [ RunTime:0.0050s ]
+SQL: SELECT a.*,GROUP_CONCAT(c.role_name) role_name FROM p919_admin a LEFT JOIN p919_admin_role b ON a.id=b.admin_id
+                                      LEFT JOIN p919_role  c ON  b.role_id=c.id
+                                      GROUP BY a.id  [ RunTime:0.0037s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: page D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Admin\2e0a6b0b98cf96bc15633704312e45ee.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2018-01-30T09:38:11+08:00 ] 127.0.0.1 /index.php/Admin/MemberLevel/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `p919_member_level` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `p919_member_level`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: PageString D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Admin\664aa4264dc1193ec1068c21baa85f3d.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006534s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000476s ]
+
+[ 2018-01-30T09:38:13+08:00 ] 127.0.0.1 /index.php/Admin/MemberLevel/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0053s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005148s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2018-01-30T09:38:15+08:00 ] 127.0.0.1 /index.php/Admin/MemberLevel/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0064s ]
+SQL: SHOW COLUMNS FROM `p919_member_level` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `p919_member_level`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined variable: PageString D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Admin\664aa4264dc1193ec1068c21baa85f3d.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006398s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2018-01-30T09:38:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0057s ]
+NOTIC: [2] Declaration of Admin\Model\GoodsModel::_after_insert(&$data, $option) should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\www.919.com\Application\Admin\Model\GoodsModel.class.php 第 304 行.
+NOTIC: [2] Declaration of Admin\Model\GoodsModel::_after_update(&$data, $option) should be compatible with Think\Model::_after_update($data, $options) D:\phpStudy\WWW\www.919.com\Application\Admin\Model\GoodsModel.class.php 第 304 行.
+NOTIC: [2] Declaration of Admin\Model\GoodsModel::_after_delete($option) should be compatible with Think\Model::_after_delete($data, $options) D:\phpStudy\WWW\www.919.com\Application\Admin\Model\GoodsModel.class.php 第 304 行.
+SQL: SHOW COLUMNS FROM `p919_goods` [ RunTime:0.0064s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p919_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT a.*,b.brand_name,c.cat_name FROM p919_goods a LEFT JOIN p919_brand b on a.brand_id=b.id
+                           LEFT JOIN  p919_category c ON a.cat_id=c.id  LIMIT 0,25   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `p919_category`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005238s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005269s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2018-01-30T09:38:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0062s ]
+SQL: SHOW COLUMNS FROM `p919_brand` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `p919_brand`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p919_member_level` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `p919_member_level`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `p919_category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `p919_type` [ RunTime:0.0055s ]
+SQL: SELECT `id`,`type_name` FROM `p919_type`  [ RunTime:0.0002s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011142s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000831s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000884s ]
+
+[ 2018-01-30T09:38:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/ajaxGetAttr/type_id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `p919_attribute` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `p919_attribute` WHERE `type_id` = '1'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2018-01-30T09:38:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0057s ]
+NOTIC: [2] Declaration of Admin\Model\GoodsModel::_after_insert(&$data, $option) should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\www.919.com\Application\Admin\Model\GoodsModel.class.php 第 304 行.
+NOTIC: [2] Declaration of Admin\Model\GoodsModel::_after_update(&$data, $option) should be compatible with Think\Model::_after_update($data, $options) D:\phpStudy\WWW\www.919.com\Application\Admin\Model\GoodsModel.class.php 第 304 行.
+NOTIC: [2] Declaration of Admin\Model\GoodsModel::_after_delete($option) should be compatible with Think\Model::_after_delete($data, $options) D:\phpStudy\WWW\www.919.com\Application\Admin\Model\GoodsModel.class.php 第 304 行.
+SQL: SHOW COLUMNS FROM `p919_goods` [ RunTime:0.0061s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p919_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT a.*,b.brand_name,c.cat_name FROM p919_goods a LEFT JOIN p919_brand b on a.brand_id=b.id
+                           LEFT JOIN  p919_category c ON a.cat_id=c.id  LIMIT 0,25   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `p919_category`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2018-01-30T09:45:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_number/id/34.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+SQL: SHOW COLUMNS FROM `p919_privilege` [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `p919_goods_number` [ RunTime:0.0055s ]
+SQL: SHOW COLUMNS FROM `p919_goods_attr` [ RunTime:0.0057s ]
+SQL: SELECT * FROM p919_goods_attr a LEFT JOIN p919_attribute b ON  a.attr_id=b.id  WHERE a.goods_id = '34' AND b.attr_type = '可选'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p919_goods_number` WHERE `goods_id` = 34  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008637s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000591s ]
+

@@ -1,0 +1,49 @@
+<script src="../../../../Public/Admin/Js/jquery.js"></script>
+<layout name="layout"/>
+<div class="form-div">
+    <form action="__ACTION__" name="searchForm" method="GET">
+        <!--搜索模块-->
+        <!-- 商品名称查询 -->
+        <p>
+            商品名称：<input type="text" name="gn" size="20"  value="<?php echo I('get.gn') ?>"/>
+        </p>
+        <p>
+            <input type="submit" value=" 搜索 " class="button" />
+        </p>
+    </form>
+</div>
+
+<!-- 商品列表 -->
+<form method="post" action="" name="listForm" onsubmit="">
+    <div class="list-div" id="listDiv">
+        <table cellpadding="3" cellspacing="1">
+            <tr>
+                <th>分类名称</th>
+                <th>操作</th>
+            </tr>
+                <?php foreach($catData as $k=>$v) :?>
+            <tr class="tron">
+                <td><?php echo str_repeat('.',$v['level']*8) ;?><?php echo $v['cat_name']; ?><?php?></td>
+                <td align="center" width="10%">
+                    <a href="<?php echo U('Category/edit?id='.$v['id']); ?>">修改</a>
+                    <a onclick=" return confirm('确定要删除吗？')" href="<?php echo U('Category/delete?id='.$v['id']); ?>">删除</a>
+                </td>
+            </tr>
+            <?php endforeach ; ?>
+        </table>
+
+    <!-- 分页开始 -->
+        <table id="page-table" cellspacing="0">
+            <tr>
+                <td width="80%">&nbsp;</td>
+                <td align="center" nowrap="true">
+                    <?php echo $PageString; ?>
+                </td>
+            </tr>
+        </table>
+    <!-- 分页结束 -->
+    </div>
+</form>
+<!--分类选择高亮js引入-->
+<script type="text/javascript" src="__PUBLIC__/Admin/Js/tron.js"></script>
+<script type="text/javascript" src="__PUBLIC__/Admin/Js/jquery.js"></script>

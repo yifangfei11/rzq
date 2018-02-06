@@ -1,0 +1,518 @@
+[ 2018-01-22T08:47:42+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002455s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `p919_category`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000181s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015634s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015675s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002396s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000813s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000856s ]
+
+[ 2018-01-22T08:47:45+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+
+[ 2018-01-22T08:47:48+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+
+[ 2018-01-22T08:48:01+08:00 ] 127.0.0.1 /index.php/Home/Goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+ERR: 无法加载控制器:Goods
+
+[ 2018-01-22T08:51:23+08:00 ] 127.0.0.1 /index.php/Home/Goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载控制器:Goods
+
+[ 2018-01-22T08:51:37+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001196s ]
+
+[ 2018-01-22T08:51:37+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+
+[ 2018-01-22T08:51:38+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2018-01-22T08:53:15+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008904s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2018-01-22T08:53:15+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2018-01-22T08:53:16+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007376s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2018-01-22T08:53:16+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2018-01-22T08:53:16+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2018-01-22T08:53:16+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000191s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2018-01-22T08:53:16+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2018-01-22T08:53:17+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000151s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007360s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007394s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2018-01-22T08:53:17+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2018-01-22T08:53:17+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2018-01-22T08:53:17+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008061s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001917s ]
+
+[ 2018-01-22T08:53:17+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2018-01-22T08:53:17+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2018-01-22T08:53:18+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2018-01-22T08:53:18+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+
+[ 2018-01-22T08:53:19+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000324s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000428s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014745s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001483s ]
+
+[ 2018-01-22T08:53:19+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2018-01-22T08:53:20+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+
+[ 2018-01-22T08:53:33+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_l9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+
+[ 2018-01-22T08:53:36+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_l8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2018-01-22T08:53:38+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_l6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2018-01-22T08:53:42+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000263s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000365s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010491s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001245s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001627s ]
+
+[ 2018-01-22T08:53:42+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2018-01-22T08:53:43+08:00 ] 127.0.0.1 /index.php/Home/Index/images/preview_s2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2018-01-22T22:43:39+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+SQL: SHOW COLUMNS FROM `p919_goods` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `p919_goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0119s ]
+ERR: Think\Model:parentPath方法不存在！
+
+[ 2018-01-22T22:46:55+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+SQL: SHOW COLUMNS FROM `p919_goods` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `p919_goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0098s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `p919_category` LIMIT 1   [ RunTime:0.0004s ]
+ERR: 1146:Table '919.p919_goods_pic' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `p919_goods_pic`
+ERR: 1146:Table '919.p919_goods_pic' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `p919_goods_pic`
+
+[ 2018-01-22T22:50:17+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `p919_goods` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `p919_goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0114s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `p919_category` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p919_goods_attr` [ RunTime:0.0106s ]
+SQL: SELECT a.*,b.attr_name,b.attr_type FROM p919_goods_attr a LEFT JOIN p919_attribute b ON a.attr_id=b.id  WHERE a.goods_id = ''  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `p919_member_price` [ RunTime:0.0093s ]
+SQL: SELECT a.price,b.level_name FROM p919_member_price a LEFT JOIN p919_member_level b ON a.level_id=b.id  WHERE a.goods_id = ''  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Common/layout.html): failed to open stream: No such file or directory D:\phpStudy\WWW\www.919.com\ThinkPHP\Library\Think\Template.class.php 第 215 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000762s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000825s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016934s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001170s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001220s ]
+
+[ 2018-01-22T22:50:20+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `p919_goods` [ RunTime:0.0175s ]
+SQL: SELECT * FROM `p919_goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0164s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `p919_category` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `p919_goods_attr` [ RunTime:0.0109s ]
+SQL: SELECT a.*,b.attr_name,b.attr_type FROM p919_goods_attr a LEFT JOIN p919_attribute b ON a.attr_id=b.id  WHERE a.goods_id = ''  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `p919_member_price` [ RunTime:0.0102s ]
+SQL: SELECT a.price,b.level_name FROM p919_member_price a LEFT JOIN p919_member_level b ON a.level_id=b.id  WHERE a.goods_id = ''  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Common/layout.html): failed to open stream: No such file or directory D:\phpStudy\WWW\www.919.com\ThinkPHP\Library\Think\Template.class.php 第 215 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005931s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2018-01-22T22:51:30+08:00 ] 127.0.0.1 /index.php/Home/Index/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `p919_goods` [ RunTime:0.0217s ]
+SQL: SELECT * FROM `p919_goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0181s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `p919_category` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p919_goods_attr` [ RunTime:0.0381s ]
+SQL: SELECT a.*,b.attr_name,b.attr_type FROM p919_goods_attr a LEFT JOIN p919_attribute b ON a.attr_id=b.id  WHERE a.goods_id = ''  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `p919_member_price` [ RunTime:0.0300s ]
+SQL: SELECT a.price,b.level_name FROM p919_member_price a LEFT JOIN p919_member_level b ON a.level_id=b.id  WHERE a.goods_id = ''  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Common/layout.html): failed to open stream: No such file or directory D:\phpStudy\WWW\www.919.com\ThinkPHP\Library\Think\Template.class.php 第 215 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000427s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000495s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015783s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001490s ]
+
+[ 2018-01-22T22:51:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001596s ]
+SQL: SHOW COLUMNS FROM `p919_category` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `p919_category`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000537s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000616s ]
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 145 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\www.919.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 141 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013298s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003773s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003839s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001169s ]
+
+[ 2018-01-22T22:52:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+
